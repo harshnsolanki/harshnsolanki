@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Hi, I'm [ Harsh Solanki ]<br>🐍 Python developer and 🤖 AI enthusiast<br>💻 Currently, I'm working on Django projects to upgrade my skills<br>📈 learning Data Structures and Algorithms <br>🤖 exploring Artificial Intelligence and Machine Learning.<br>📱 I have experience with Flutter App development
+👨‍💻 Hi, I'm [ Harsh Solanki ]<br>🐍 Python developer and 🤖 AI enthusiast<br>💻 Currently, I'm working on Django projects to upgrade my skills<br>📈 Learning Data Structures and Algorithms <br>🤖 Exploring Artificial Intelligence and Machine Learning.<br>📱 I have experience with Flutter App development
 
 
 ## 🌐 Socials:
